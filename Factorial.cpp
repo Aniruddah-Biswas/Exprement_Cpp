@@ -26,6 +26,7 @@ void Factorial::Factorial_Function(int Value){
 int main()
 {
     cout<<"Welcome to Factorial Converter"<<endl;
+    cout<<"We can creat fibbonaci by 3 ways in this programe"<<endl;
     Factorial f;
     int Number;
     for(;;){
